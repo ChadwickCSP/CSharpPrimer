@@ -22,7 +22,7 @@ In this project, you will take a deep dive into C# programming independently fro
 ### Sign up for Project
 
 Sign up for the project repository here: 
-[TODO]()
+[https://classroom.github.com/a/T4aAfLOo](https://classroom.github.com/a/T4aAfLOo)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
